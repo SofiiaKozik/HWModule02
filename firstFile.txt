@@ -1,7 +1,7 @@
 1 Line, Git_1, first File, Updated git 1
 2 Line, Git_1, first File, Updated git 1
-3 Line, Git_1, first File
-4 Line, Git_1, first File
+3 Line, Git_1, first File, Updated git 1
+4 Line, Git_1, first File, Updated git 1
 5 Line, Git_1, first File
 6 Line, Git_1, first File
 7 Line, Git_1, first File
