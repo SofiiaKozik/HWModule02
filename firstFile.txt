@@ -4,7 +4,7 @@
 4 Line, Git_1, first File, Updated git 1
 5 Line, Git_1, first File, Updatet in folder 2
 6 Line, Git_1, first File, Updatet in folder 2
-7 Line, Git_1, first File
-8 Line, Git_1, first File
+7 Line, Git_1, first File, Updated in folder 1
+8 Line, Git_1, first File, Updated in folder 1
 9 Line, Git_1, first File
 10 Line, Git_1, first File
